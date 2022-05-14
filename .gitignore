@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/model-naf4
+model-naf4.so
+model-naf4.dylib
+model-naf4.dll
+model-naf4.a
+model-naf4.lib
+model-naf4-test-*
+*.exe
+*.o
+*.obj
+*.lst
